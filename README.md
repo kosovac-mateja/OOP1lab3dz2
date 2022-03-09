@@ -1,2 +1,1 @@
-# lab3dz2
-OOP1
+# OOP1lab3dz2
